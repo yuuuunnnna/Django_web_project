@@ -6,7 +6,8 @@ Django 프로젝트 내에서 sqlite 사용하여 DB 생성 후 로그인, 회�
 디지털스마트부산 아카테미 LMS 벤치마킹하여 웹페이지 생성 
 
 - 웹 프로토타입
-<img width="752" alt="image" src="https://user-images.githubusercontent.com/73158757/203318558-3ec945cd-624c-4851-b2c0-08d847fc80d2.png">
+<img width="567" alt="image" src="https://user-images.githubusercontent.com/73158757/203326884-c579424d-8b38-4602-9096-36d836d7d6bc.png">
+
 
 
 - 파일 트리구조
