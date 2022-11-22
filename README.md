@@ -23,8 +23,12 @@ Django 프로젝트 내에서 sqlite 사용하여 DB 생성 후 로그인, 회�
 - 게시판
 <img width="522" alt="image" src="https://user-images.githubusercontent.com/73158757/203327141-01325e4e-25ca-469f-9f37-3e3708c042b3.png">
 
+
+
 -게시판 상세페이지 / 등록화면
 <img width="522" alt="image" src="https://user-images.githubusercontent.com/73158757/203327198-0e3cc940-b2aa-4de7-ae8f-08b8626ec90c.png">
+
+-
 <img width="528" alt="image" src="https://user-images.githubusercontent.com/73158757/203327247-6b643788-a44c-48f2-88ae-98f050868b5f.png">
 
 - 게시판
